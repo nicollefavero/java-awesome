@@ -1,0 +1,11 @@
+out/
+build/
+
+*.xml
+*.jar
+*.war
+*.class
+*.log
+*.zip
+*.tar.gz
+*.rar
