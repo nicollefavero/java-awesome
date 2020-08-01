@@ -5,7 +5,7 @@ import java.util.regex.Pattern;
 
 public class CheckVehicles {
 
-    private static final String EMAIL_PATTERN = "^[_A-Za-z0-9-\\+](\\.[_A-Za-z0-9-]+)*@"
+    private static final String EMAIL_PATTERN = "^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@"
             + "[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,}$)";
 
     public static boolean isValidEmail(final String emailToValidate){
@@ -40,7 +40,7 @@ public class CheckVehicles {
                 if(isValidEmail(email)){
                     emailTarget = email.toLowerCase().trim();
                 } else {
-                    System.out.println(email + "é um email inválido. Encerrando...");
+                    System.out.println(email + " é um email inválido. Encerrando...");
                     return;
                 }
 
