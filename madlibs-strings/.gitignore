@@ -1,0 +1,14 @@
+out/
+build/
+gradle/
+.gradle/
+.idea/
+
+*.xml
+*.jar
+*.war
+*.class
+*.log
+*.zip
+*.tar.gz
+*.rar
