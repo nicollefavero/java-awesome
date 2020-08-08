@@ -1,6 +1,8 @@
 # String's Race
 A project to understand how concatenation works in Java and which is the best option to use at which moment.
 
+Idea from: [DevMedia](https://www.devmedia.com.br/diferencas-entre-string-stringbuilder-e-stringbuffer-em-java/29865)
+
 ### Build the executable jarfile
 ```
 gradle build
