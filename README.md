@@ -11,3 +11,10 @@ A repository with my POCs and cool projects with Java beginner stuff.
 
 ## #ToDo List
 
+[ X ] Funny Main   
+[ X ] Madlibs     
+[ X ] String's Race    
+
+
+## ToDo List
+
