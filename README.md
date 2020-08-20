@@ -7,7 +7,7 @@ A repository with my POCs and cool projects with Java beginner stuff.
 [ X ] Funny Main   
 [ X ] Madlibs     
 [ X ] String's Race    
-[  ] Where's Wally
+[  ] Where's Wally     
 [  ] Roflcopter
 
 ## #ToDo List
