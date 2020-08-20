@@ -7,7 +7,7 @@ import java.io.*;
 
 public class SearchWally {
 
-    private static final File WALLY_PATH = new File("/home/ilegra-237/Documentos/java-beginner/wheres_wally/where-wally-is-suppose-to-be/");
+    private static final File WALLY_PATH = new File("/home/ilegra-237/Documentos/java-beginner/wheres-wally/where-wally-is-suppose-to-be/");
 
     public static void main(String[] args) {
 
@@ -45,7 +45,7 @@ public class SearchWally {
 
     public static String readFile(String fileName) throws EmptyFileException, IOException {
 
-        try(FileReader fileReader = new FileReader("/home/ilegra-237/Documentos/java-beginner/wheres_wally/where-wally-is-suppose-to-be/" + fileName)){
+        try(FileReader fileReader = new FileReader("/home/ilegra-237/Documentos/java-beginner/wheres-wally/where-wally-is-suppose-to-be/" + fileName)){
             BufferedReader fileBuff = new BufferedReader(fileReader);
 
             String line = fileBuff.readLine();
