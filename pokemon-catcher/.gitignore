@@ -1,0 +1,9 @@
+.gradle
+.idea
+gradle
+build
+
+.json
+.xml
+.jar
+.war
