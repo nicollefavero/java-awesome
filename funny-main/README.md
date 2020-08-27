@@ -8,7 +8,7 @@ Idea from: [DevMedia](https://www.devmedia.com.br/entendendo-o-parametro-string-
 It is possible to pass anyone of the following parameters to the main method:   
 * I10, that means it is ok ignore vehicles that have more than 10 years.   
 * IEXT, that means it is ok ignore vehicles that are already on the road.   
-* EMAIL:example@email.com.br, where the final report will be sent.   
+* EMAIL: example@email.com.br, where the final report will be sent.   
 
 ## Build   
 ```shell
