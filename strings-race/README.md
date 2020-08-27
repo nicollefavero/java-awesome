@@ -11,7 +11,7 @@ gradle build
 ### Run the application
 ```
 cd build/libs
-java -jar strings-race-1.0-SNAPSHOT.jar
+java -jar strings-race.jar
 ```
 
 The output should look like this:
