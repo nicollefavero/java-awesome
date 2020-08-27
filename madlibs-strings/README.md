@@ -10,7 +10,12 @@ gradle build
 ## Run
 ```shell
 cd build/libs
-java -jar madlibs-strings-1.0-SNAPSHOT.jar
+java -jar madlibs.jar
 ```
+
 ## How to Use
 Just write anything when the program asks for a word and have fun!
+
+## Example
+
+![alt text](https://github.com/nicollefavero/java-beginner/blob/master/madlibs-strings/output_example.png "Example")
