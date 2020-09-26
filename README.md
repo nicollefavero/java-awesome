@@ -1,18 +1,16 @@
-# Java Beginner    
+# Java Awesome :)    
 
-A repository with my POCs and cool projects with Java beginner stuff.    
+A repository with my POCs and cool projects with Java stuff.    
 
 ## Roadmap    
 
-[ X ] Funny Main   
-[ X ] Madlibs     
-[ X ] String's Race    
-[ X ] Where's Wally    
-[ X ] Pokemon Catcher    
-[  ] Roflcopter     
-
-## #ToDo List
-* Do Roflcopter with JavaFX
+- [X] Funny Main   
+- [X] Madlibs     
+- [X] String's Race    
+- [X] Where's Wally    
+- [X] Pokemon Catcher   
+- [X] Baby Shark In French Horn
+- [ ] Roflcopter     
 
 
 
