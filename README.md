@@ -1,4 +1,4 @@
-# Java Awesome :)    
+# Java Studies :)    
 
 A repository with my POCs and cool projects with Java stuff.    
 
